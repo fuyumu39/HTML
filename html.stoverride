@@ -13,3 +13,4 @@ rules:
   - DOMAIN-SUFFIX,Claude.ai,🤖 ChatGPT/NewBing
   - DOMAIN-SUFFIX,developer.apple.com,🤖 ChatGPT/NewBing
   - DOMAIN-SUFFIX,voachinese.com,🤖 ChatGPT/NewBing
+  - DOMAIN-SUFFIX,anthropic.com,🤖 ChatGPT/NewBing
