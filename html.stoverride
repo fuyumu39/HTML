@@ -10,7 +10,7 @@ dns:
 rules:
   - DOMAIN-SUFFIX,115rc.com,DIRECT,no-resolve
   - DOMAIN-SUFFIX,mxhichina.com,DIRECT,no-resolve
-  - DOMAIN-SUFFIX,Claude.ai,🤖 ChatGPT/NewBing
-  - DOMAIN-SUFFIX,developer.apple.com,🤖 ChatGPT/NewBing
-  - DOMAIN-SUFFIX,voachinese.com,🤖 ChatGPT/NewBing
-  - DOMAIN-SUFFIX,anthropic.com,🤖 ChatGPT/NewBing
+  - DOMAIN-SUFFIX,Claude.ai,🚀 节点选择
+  - DOMAIN-SUFFIX,developer.apple.com,🚀 节点选择
+  - DOMAIN-SUFFIX,voachinese.com,🚀 节点选择
+  - DOMAIN-SUFFIX,anthropic.com,🚀 节点选择
