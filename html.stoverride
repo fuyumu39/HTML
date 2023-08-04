@@ -3,7 +3,7 @@ desc: 就是让115rc.com的地址可以直接访问，不走代理
 # author: xxgod
 dns:
   enabled: true
-  nameserver:
+  nameserver: #!replace
     - 192.168.69.194
 rules:
   - DOMAIN-SUFFIX,115rc.com,DIRECT,no-resolve
